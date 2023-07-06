@@ -1,5 +1,5 @@
 # WeatherApp
-### This is a simple weather app using html , css and javascript
+### This is a simple weather app using HTML , CSS and Javascript
 ### I used OpenWeatherMap API to search on a city and return all weather info from this API
 
 ![Weather app - Google Chrome 7_6_2023 3_05_08 AM](https://github.com/yara857/WeatherApp/assets/75863913/7c356772-6e22-4197-b904-7001ff6b668c)
